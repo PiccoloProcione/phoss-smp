@@ -71,7 +71,7 @@
     <flyway.version>9.22.3</flyway.version>
     <log4j.version>2.23.1</log4j.version>
     <mongodb.version>5.1.2</mongodb.version>
-    <protobuf.version>3.25.3</protobuf.version>
+    <protobuf.version>3.25.4</protobuf.version>
   </properties>
   
   <dependencyManagement>
